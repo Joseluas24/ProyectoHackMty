@@ -1,3 +1,0 @@
-# ProyectoHackMty
-Equipo Amarillo.exe
-
